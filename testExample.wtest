@@ -1,8 +1,8 @@
-import example
+import surfers
 
-describe "group of tests for pepita" {
+describe "Tests de Surfistas en la Costa Salvaje" {
 
-  test "pepita has initial energy" {
+  test "luna" {
     assert.equals(100, 100)
   }
 
